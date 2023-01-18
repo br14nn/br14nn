@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @br14nn
-- 👀 I’m interested in learning full stack web developer and mobile developer
+- 👋 Hi, I’m Brian Vitualla
+- 👀 I am into front-end or back-end or both web developer
 - 📫 How to reach me Facebook: https://www.facebook.com/brianVVitualla/
 
 <!---
