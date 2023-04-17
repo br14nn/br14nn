@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brian Vitualla
-- 👀 I am into front-end or back-end or both web developer
+- 👀 I am into frontend and backend(Not yet mastered)
 - 📫 How to reach me Facebook: https://www.facebook.com/brianVVitualla/
 
 <!---
