@@ -2,7 +2,7 @@
 <img style="object-fit:cover;height:auto" width="1280" style="margin:auto" src="https://media.tenor.com/eoDCOCtdFxUAAAAC/konosuba-anime.gif"/>
 </div>
 
-# My Nextjs Initial Setup
+# My NextJS/ReactJS Initial Setup
 ### TailwindCSS Prettier
 Install the prettier plugin for tailwindCSS
 ```shell
