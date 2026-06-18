@@ -66,5 +66,8 @@
 </br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br14nn&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=br14nn&show_icons=true&theme=merko" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br14nn&layout=compact&theme=merko" alt="Top Langs" />
 </p>
+
+
