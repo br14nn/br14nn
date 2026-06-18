@@ -53,4 +53,8 @@
   <a href="mailto:vituallabrian727@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=br14nn&theme=tokyonight)
+</br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br14nn&theme=tokyonight" alt="Top Langs" />
+</p>
